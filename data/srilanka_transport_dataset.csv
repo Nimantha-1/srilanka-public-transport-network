@@ -1,0 +1,11 @@
+Vehicle_ID,Route_No,Start_Station,End_Station,Scheduled_Arrival,Actual_Arrival,Delay_Minutes,Passenger_Count,Traffic_Level
+V001,Route-001,Colombo,Kandy,10/2/2025 7:00,10/2/2025 7:15,15,90,High
+V002,Route-002,Galle,Matara,10/4/2025 9:00,10/4/2025 9:00,0,65,Low
+V003,Route-003,Colombo,Gampaha,10/10/2025 8:30,10/10/2025 8:45,15,105,Medium
+V004,Route-004,Kandy,Kurunegala,10/6/2025 6:00,10/6/2025 6:10,10,55,Low
+V005,Route-005,Colombo,Negombo,10/12/2025 17:00,10/12/2025 17:30,30,70,High
+V006,Route-003,Colombo,Gampaha,10/18/2025 10:00,10/18/2025 10:05,5,80,Medium
+V007,Route-001,Colombo,Kandy,10/21/2025 5:30,10/21/2025 5:45,15,110,High
+V008,Route-002,Galle,Matara,10/9/2025 11:15,10/9/2025 11:20,5,95,Medium
+V009,Route-005,Colombo,Negombo,10/27/2025 18:45,10/27/2025 19:15,30,60,High
+V010,Route-004,Kandy,Kurunegala,10/30/2025 7:00,10/30/2025 7:00,0,75,Low
